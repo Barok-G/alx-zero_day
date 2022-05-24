@@ -1,1 +1,1 @@
-readme
+clear readme
